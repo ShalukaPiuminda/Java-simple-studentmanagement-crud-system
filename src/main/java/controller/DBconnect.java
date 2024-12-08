@@ -8,7 +8,7 @@ public class DBconnect {
 
     public static Connection getConnection() {
         String username = "root";
-        String password = "pass123";
+        String password = "yourpassword";
         Connection con = null;
 
         try {
